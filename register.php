@@ -77,7 +77,7 @@
             aria-label="Toggle navigation">
             <span class="fa fa-bars"></span> Menu
           </button>
-       Inscrivez vous !
+       Inscrivez vous SVP!
         </div>
       </nav>
     </section>
